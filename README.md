@@ -43,6 +43,4 @@ Before running the application, make sure you have the following prerequisites i
    If not already done, install project dependencies by running the following command:
    **mvn clean install**
 4. **Start the Spring Boot Application Server:** (JAVA v17)
-   Start the Spring development server with the following command:
-   Navigate to the target folder **cd backend\target**
-   **java -jar backend-0.0.1-SNAPSHOT.jar**
+   Start the Spring development server from IDE
