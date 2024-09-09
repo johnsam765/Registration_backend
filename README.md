@@ -43,5 +43,5 @@ Before running the application, make sure you have the following prerequisites i
    If not already done, install project dependencies by running the following command:
    **mvn clean install**
 4. **Start the Spring Boot Application Server:**
-   Start the Angular development server with the following command:
+   Start the Spring development server with the following command:
    **java -jar backend.jar**
